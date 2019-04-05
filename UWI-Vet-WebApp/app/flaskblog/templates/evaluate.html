@@ -1,0 +1,120 @@
+{% extends "layout.html" %}
+{% block content%}
+    <h1>Evaluation Page</h1>
+    </br>
+    <div class="content-section">
+        <form method="POST" action="">
+            {{ form.hidden_tag() }}
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4">Evaluate a student</legend>
+
+                <div class="form-group">
+                        {{ form.studentID.label(class="form-control-label") }}
+                        {% if form.studentID.errors %}
+                            {{ form.studentID(class="form-control form-control-lg is-invalid") }}
+                            <div class="invalid-feedback"> 
+                                {% for errors in form.studentID.errors %}
+                                    <span>{{ errors }}</span>
+                                {% endfor %}
+                            </div>
+                        {% else %}
+                            {{ form.studentID(class="form-control form-control-lg") }}
+                        {% endif %}
+                </div>
+
+                <div class="form-group">
+
+                        <label>Attitude</label>
+                    
+            
+                        <select name="Attitude" label="Attitude">
+
+                                <option value="0">0</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+
+                        </select>
+                
+                    {{ form.attitude.Attitude }}
+                        
+                </div>
+                <div class="form-group">
+                        <label>Work Ethic</label>
+                       <select name="Ethic">
+    
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+    
+                       </select>
+                            
+                </div>
+                <div class="form-group">
+                        <label>Skills</label>
+                       <select name="Skills">
+    
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+    
+                       </select>
+                            
+                </div>
+                <div class="form-group">
+                        <label>Punctuality</label>
+                       <select name="Punctuality">
+    
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+    
+                       </select>
+                            
+                </div>
+                <div class="form-group">
+                        <label>Communication Skills</label>
+                       <select name="CommsSkills">
+    
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+    
+                       </select>
+                            
+                </div>
+                <div class="form-group">
+                    
+                        <label>Terminology</label>
+                       <select name="Terminology">
+    
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+    
+                       </select>
+                            
+                </div>
+                
+                
+                
+            </fieldset>
+            <div class="form-group">
+                {{ form.next(class="btn btn-outline-info") }}
+            </div>
+            
+        </form>
+
+    </div>
+{% endblock content %}
