@@ -85,7 +85,7 @@ Meet with Dr. Anil and clarified further questions regarding the project. Decide
 4. Documentation going preety good. 
 
 ### Remainder of the Week 
-1. Started going whole night from about tuesday to Wednesday morning. 
+1. Started going whole night from about tuesday to Thursday morning. 
 2. Daniel started to lose his marbles Wednesday night going into Thursday wanted to cuss out everybody. 
 
 
