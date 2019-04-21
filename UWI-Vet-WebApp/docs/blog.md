@@ -43,4 +43,27 @@ Meet with Dr. Anil and clarified further questions regarding the project. Decide
 
 ## March 
 
+### Monday 18th March, 2019
+1. Meet with Shareeda and discussed the ERD. 
+2. Came to the Decsions that we had to rework the ERD to what we have now 
+3. The old ERD required to many redundant tables. 
+
+### Wednesday 20th March, 2019
+1. Meet with doctor persad and showed him where we are in terms of the desgning aspect. 
+2. We diccused some other ideas and decided to leave out Large Animal Rotations. 
+3. Large animal rotations was under his division and as such he was okay to leave it out. 
+4. Dr. Persad also hinted about the use of an Admin or SuperUser.
+5. Did documentation on Use cases and Sequence Diagrams. 
+6. Requirements was also restructured together with System Architecture. 
+
+### Thursday 21st March, 2019 
+1. All group memebers came together and reworked the old ERD to a newer one 
+2. Everyone on board a proper timeline of events was created. 
+3. Once the timeline was created everyone knew what had to be done.
+
+
+
+
+
+
 
