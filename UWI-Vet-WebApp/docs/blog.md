@@ -61,6 +61,34 @@ Meet with Dr. Anil and clarified further questions regarding the project. Decide
 2. Everyone on board a proper timeline of events was created. 
 3. Once the timeline was created everyone knew what had to be done.
 
+### Monday 25th March, 2019 
+1. Meet with Shareeda and presented the upload student data via excel worksheet. 
+2. Rotations page started ability to upload competencies once properly formated. 
+3. Meet with Mr. DeFreitas for assistance on the uploading of Excel and manipulation 
+
+## April 
+
+### Monday 8th April, 2019
+1. Meet with Shareeda got in trouble more work was supposed to be done.
+2. Varun got upset with everyone wanted to give up. Aaron reassured everyone that things going to be okay. 
+3. More documentation was done regarding Implementation, Ranking, Drawings, and also Class Diagram started. 
+4. Daniel started working on the Marking Students page. 
+
+### Friday 12th April, 2019
+1. Ran in toruble with the marking sought help from daniel friend who assisted with JavaScript. 
+2. Got feedback on diagram as well as other doumentation requirements. 
+
+### Monday 15th April, 2019
+1. Meet with shareeda said that we are going good happy to see that made 
+2. Daniel got upset with everyone said we gonna fail!! 
+3. Tensions began to flare. 
+4. Documentation going preety good. 
+
+### Remainder of the Week 
+1. Started going whole night from about tuesday to Wednesday morning. 
+2. Daniel started to lose his marbles Wednesday night going into Thursday wanted to cuss out everybody. 
+
+
 
 
 
